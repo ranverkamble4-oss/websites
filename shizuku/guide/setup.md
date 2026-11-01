@@ -2,7 +2,7 @@
 
 [[toc]]
 
-## Start Shizuku
+## Stadb shell /data/app/~~VXBeIO6S4Sx5Hw1h2f9p_Q==/moe.shizuku.privileged.api-B0q_ngjVuf9lfdW_5rQw-Q==/lib/arm64/libshizuku.soart Shizuku
 
 Shizuku supports startup in the following three ways.
 
